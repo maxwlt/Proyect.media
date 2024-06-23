@@ -1,0 +1,41 @@
+id_publicacion,usuario_publicador,publicacion, promedio, 
+1,@traveler_joy,"Explorando nuevos destinos", 1.23
+2,@foodie_adventure,"Delicias culinarias alrededor del mundo",0
+3,@tech_wizard,"La ultima innovacion tecnologica", 
+4,@sports_lover,"Emocionante partido de la temporada", 
+5,@movie_buff,"Una obra maestra del cine"
+6,@traveler_joy,"Aventuras en la jungla urbana"
+7,@foodie_adventure,"Cocina casera reconfortante"
+8,@tech_wizard,"Los gadgets mas asombrosos del anio"
+9,@sports_lover,"El juego del siglo"
+10,@movie_buff,"Un clasico reinventado", 
+11,@juliana19,"Firulais recorriendo el mundo"
+12,@foodie_adventure,"Platos exoticos que debes probar"
+13,@tech_wizard,"Los secretos detras de la tecnologia punta"
+14,@sports_lover,"Un torneo epico"
+15,@movie_buff,"Una joya del cine independiente"
+16,@traveler_joy,"La magia de las ciudades antiguas", 1,
+17,@luciana_vega,"Les presento a Mishi"
+18,@tech_wizard,"Como la tecnologia esta cambiando nuestras vidas"
+19,@juliana19,"Historias de Firulais"
+20,@movie_buff,"Un homenaje a los grandes directores"
+21,@traveler_joy,"Destinos remotos para desconectar"
+22,@foodie_adventure,"Comida callejera deliciosa y economica"
+23,@tech_wizard,"La revolucion de la realidad virtual"
+24,@sports_lover,"Momentos inolvidables en la historia del deporte"
+25,@movie_buff,"Peliculas que te dejaran sin aliento"
+26,@traveler_joy,"Explorando la belleza bajo el agua"
+27,@foodie_adventure,"Recetas tradicionales con un toque moderno"
+28,@tech_wizard,"La proxima gran innovacion en la industria"
+29,@luciana_vega,"Mishi aventuras"
+30,@movie_buff,"Una noche de clasicos de Hollywood"
+31,@traveler_joy,"Aventuras en la naturaleza virgen"
+32,@foodie_adventure,"Restaurantes con estrellas Michelin"
+33,@tech_wizard,"Los dispositivos mas esperados del futuro"
+34,@sports_lover,"El deporte como herramienta de cambio social"
+35,@movie_buff,"Descubriendo joyas cinematograficas"
+36,@traveler_joy,"La ruta de los exploradores legendarios"
+37,@foodie_adventure,"Sabores locales autenticos"
+38,@tech_wizard,"Como la inteligencia artificial esta transformando el mundo"
+39,@sports_lover,"De vuelta a los momentos mas emocionantes del deporte"
+40,@movie_buff,"Cine experimental que desafia los limites"
